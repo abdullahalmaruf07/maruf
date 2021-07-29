@@ -1,0 +1,17 @@
+.bg-custom {
+    background-color: #264653;
+}
+
+.gray-filter {
+    filter: grayscale(100%);
+}
+
+.fa-rating {
+    color: gold;
+}
+
+.hw {
+    height: 149px;
+    width: 149px;
+    margin: 0 auto;
+}
